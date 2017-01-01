@@ -17,14 +17,14 @@
       <guid>http://uiureo.com/about/</guid>
       <description>&lt;h2&gt;基本情報&lt;/h2&gt;
 
-&lt;ul&gt;
+&lt;ul class=&#34;no-dot&#34;&gt;
   &lt;li&gt;誕生: 1992 / 12 / 14&lt;/li&gt;
   &lt;li&gt;出身: 大阪府阪南市&lt;/li&gt;
   &lt;li&gt;所属: &lt;a href=&#34;https://www.kmc.gr.jp/&#34;&gt;KMC&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2&gt;過去&lt;/h2&gt;
-&lt;ul&gt;
+&lt;ul class=&#34;no-dot&#34;&gt;
   &lt;li&gt;2016年11月 ~ &lt;a href=&#34;https://info.cookpad.com/&#34;&gt;Cookpad&lt;/a&gt; ソフトウェアエンジニア&lt;/li&gt;
   &lt;li&gt;2014年4月 ~ 2016年1月 &lt;a href=&#34;http://www.notainc.com/&#34;&gt;Nota Inc.&lt;/a&gt; リードエンジニア&lt;/li&gt;
   &lt;li&gt;2014年8月 ~ 11月 オレゴン州ポートランドに滞在&lt;/li&gt;
@@ -53,6 +53,50 @@
 &lt;p&gt;
   京都大学の学生向けの授業情報共有サービス。 &lt;a href=&#34;http://hidesys.net/&#34;&gt;友人&lt;/a&gt;&lt;a href=&#34;http://naoki.sexy/&#34;&gt;2人&lt;/a&gt;と共に開発。
 &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>読んだ本</title>
+      <link>http://uiureo.com/book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://uiureo.com/book/</guid>
+      <description>
+
+&lt;p&gt;最高の本のリストです。本当に面白くて何度も読み返している本だけを置いています。&lt;/p&gt;
+
+&lt;h2 id=&#34;2016&#34;&gt;2016&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/dp/4478001251&#34;&gt;ブラック・スワン - ナシーム・ニコラス・タレブ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/dp/4624932307&#34;&gt;よりよき世界を求めて - カール・R・ポパー&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/dp/4480085866&#34;&gt;宇宙船地球号操縦マニュアル - バックミンスター・フラー&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/dp/4873114772&#34;&gt;Make: Electronics - Charles Platt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://neuralnetworksanddeeplearning.com/&#34;&gt;Neural Networks and Deep Learning - Michael Nielsen &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;2015&#34;&gt;2015&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/dp/B00MTL340G&#34;&gt;イシューからはじめよ - 安宅和人&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/dp/B00ED7SB16&#34;&gt;機械との競争&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/dp/4887061773&#34;&gt;建築家たちの20代 - 東京大学工学部建築学科安藤忠雄研究室&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/dp/B00SI0B5FS&#34;&gt;Anything You Want - Derek Sivers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;以前&#34;&gt;以前&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/dp/B00NQ3QONK&#34;&gt;Zero to One - Peter Thiel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/dp/B00GRHWUGM&#34;&gt;自分の中に毒を持て - 岡本太郎&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/dp/B009GPM4AY&#34;&gt;書を捨てよ、町へ出よう - 寺山修司&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/dp/4274065782&#34;&gt;プログラミングのための線形代数 - 平岡 和幸, 堀 玄&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/dp/B002MUAJ2A&#34;&gt;Rework - Jason Fried, David Heinemeier Hansson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mitpress.mit.edu/sicp/full-text/book/book.html&#34;&gt;Structure and Interpretation of Computer Programs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/dp/B00N0XOP4G&#34;&gt;銀河ヒッチハイク・ガイド&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/dp/B01G6MF4J2&#34;&gt;風の歌を聴け - 村上春樹&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
