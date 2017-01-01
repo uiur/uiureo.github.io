@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>@uiureo</title>
+    <link>http://uiureo.com/index.xml</link>
+    <description>Recent content on @uiureo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 14 Feb 2016 16:11:58 +0530</lastBuildDate>
+    <atom:link href="http://uiureo.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://uiureo.com/about/</link>
+      <pubDate>Sun, 14 Feb 2016 16:11:58 +0530</pubDate>
+      
+      <guid>http://uiureo.com/about/</guid>
+      <description>&lt;h2&gt;基本情報&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;誕生: 1992 / 12 / 14&lt;/li&gt;
+  &lt;li&gt;出身: 大阪府阪南市&lt;/li&gt;
+  &lt;li&gt;所属: &lt;a href=&#34;https://www.kmc.gr.jp/&#34;&gt;KMC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;過去&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;2016年11月 ~ &lt;a href=&#34;https://info.cookpad.com/&#34;&gt;Cookpad&lt;/a&gt; ソフトウェアエンジニア&lt;/li&gt;
+  &lt;li&gt;2014年4月 ~ 2016年1月 &lt;a href=&#34;http://www.notainc.com/&#34;&gt;Nota Inc.&lt;/a&gt; リードエンジニア&lt;/li&gt;
+  &lt;li&gt;2014年8月 ~ 11月 オレゴン州ポートランドに滞在&lt;/li&gt;
+  &lt;li&gt;2014年4月 ~ 2016年3月 &lt;a href=&#34;http://uiuret.hatenablog.com/entry/2014/12/15/224923&#34;&gt;大学休学&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;2013年8月 &lt;a href=&#34;https://info.cookpad.com/&#34;&gt;クックパッド&lt;/a&gt; エンジニアインターン&lt;/li&gt;
+  &lt;li&gt;2013年2月 ~ 2014年2月 &lt;a href=&#34;http://hatenacorp.jp/&#34;&gt;はてな&lt;/a&gt; エンジニアアルバイト&lt;/li&gt;
+  &lt;li&gt;2012年8月 &lt;a href=&#34;http://hatenacorp.jp/&#34;&gt;はてな&lt;/a&gt; エンジニアインターン&lt;/li&gt;
+  &lt;li&gt;2011年7月 ~ 2012年3月 Happy Elements エンジニアアルバイト&lt;/li&gt;
+  &lt;li&gt;2011年4月 京都大学工学部情報学科入学&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;プロジェクト&lt;/h2&gt;
+
+&lt;h3&gt;
+  &lt;a href=&#34;http://uiureo.hatenablog.com/entry/2013/05/22/203404&#34;&gt;Gifzo&lt;/a&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;
+  動画キャプチャソフト。大学2回生の春に開発して &lt;a href=&#34;https://gyazo.com&#34;&gt;Gyazo&lt;/a&gt;運営のNota Inc. に売却。現在はGyazo GIFとして開発・運営されている。
+&lt;/p&gt;
+
+&lt;h3&gt;
+  カニバリズム山脈
+&lt;/h3&gt;
+
+&lt;p&gt;
+  京都大学の学生向けの授業情報共有サービス。 &lt;a href=&#34;http://hidesys.net/&#34;&gt;友人&lt;/a&gt;&lt;a href=&#34;http://naoki.sexy/&#34;&gt;2人&lt;/a&gt;と共に開発。
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
